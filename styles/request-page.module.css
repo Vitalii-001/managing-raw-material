@@ -1,0 +1,11 @@
+.container {
+  min-height: 100vh;
+  padding: 40px 10px 0;
+  display: flex;
+  align-items: start;
+}
+
+.form, .list {
+  min-width: 50%;
+  padding: 0 10%;
+}
